@@ -9,7 +9,7 @@ Requirements
 
 If you are using Xamp you have to create a project in htdocs folder(project path), if it is Wamp you have to create a project in www folder(project path).
 
-Access using localhost/Synchronizer-Token-Pattern_IT17123228/Login.html
+Access using localhost/Synchronizer-Token-Pattern_IT17123228-master/Login.html
 
 Username-admin
 
